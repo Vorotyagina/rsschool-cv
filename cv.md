@@ -7,6 +7,9 @@ vorotyagina@mail.ru
 
 ![foto](./img/ava.png "Фото")
 
+### About me
+I like to make texts beautiful. And also — to learn new things. Most of all I like the feeling when your code works.
+
 ### EDUCATION
 #### (1995–2001) ITMO University
 School of Computer Technologies and Control. 
@@ -32,6 +35,9 @@ JS / Front-end (Stage 0)
 ### WORK EXPIERIENCE
 #### (since 2022) Yandex
 Asessor in computer science
+
+#### (since 2022) Skillbox
+Author of the articles in 'Code'
 
 #### (since 2021) AST publishing house 
 Editor
