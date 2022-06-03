@@ -26,4 +26,15 @@ JS / Front-end
 ####(2022) RS School
 JS / Front-end (Stage 0)
 
+###WORK EXPIERIENCE
+####(since 2022) Yandex
+Asessor in computer science
 
+####(since 2021) AST publishing house 
+Editor
+
+####(2021–2022) Skyeng (Skysmart, Skypro)
+Proofreader
+
+####(2002–2010) Federal treasury department (Saint-Petersburg)
+Database administrator, consultant, tester
