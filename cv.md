@@ -76,3 +76,5 @@ JS / Front-end
 
 #### (2022) RS School
 JS / Front-end (Stage 0)
+
+#### English — A2/B1
