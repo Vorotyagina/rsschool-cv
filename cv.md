@@ -10,6 +10,26 @@ vorotyagina@mail.ru
 ### About me
 I like to make texts beautiful. And also — to learn new things. Most of all I like the feeling when your code works.
 
+### Skills
+* Soft-skills
+    + Listening (paying attention, reflection and responding)
+    + Adaptability
+    + Creativity
+    + Critical observation
+    + Desire to learn
+    + Flexibility
+    + Logical thinking
+    + Problem solving
+
+* Hard-skills
+    + HTML5
+    + CSS3
+    + JS5, JS6+
+    + TypeScript
+    + webpack
+    + React  
+    + GitHub
+
 ### EDUCATION
 #### (1995–2001) ITMO University
 School of Computer Technologies and Control. 
