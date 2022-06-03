@@ -27,9 +27,6 @@ vorotyagina@mail.ru, telegram: [@vorotyagina_smile](http://t.me/vorotyagina_smil
     + React  
     + GitHub
 
----
-
-
 ### Code example
 ```
 function areYouPlayingBanjo(name) {
@@ -39,7 +36,6 @@ function areYouPlayingBanjo(name) {
   return (name + " does not play banjo");
 }
 ```
----
 
 ### Work experience
 #### (since 2022) Yandex
