@@ -1,6 +1,9 @@
 #Natalya Vorotyagina
-#### proofreader editor 
-learning front-end
+#####proofreader editor learning front-end
+
+#### CONTACTS
+vorotyagina@mail.ru
+тг: [@vorotyagina_smile](http://t.me/vorotyagina_smile)
 
 ![foto](./img/ava.png "Фото")
 
