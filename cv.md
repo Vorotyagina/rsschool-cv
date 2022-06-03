@@ -1,9 +1,6 @@
 # Natalya Vorotyagina
 ##### proofreader editor learning front-end
-
-### CONTACTS
-vorotyagina@mail.ru
-тг: [@vorotyagina_smile](http://t.me/vorotyagina_smile)
+vorotyagina@mail.ru, тг: [@vorotyagina_smile](http://t.me/vorotyagina_smile)
 
 ![foto](./img/ava.png "Фото")
 
@@ -29,6 +26,7 @@ I like to make texts beautiful. And also — to learn new things. Most of all I 
     + webpack
     + React  
     + GitHub
+---
 
 ### Code example
 ```
@@ -39,6 +37,25 @@ function areYouPlayingBanjo(name) {
   return (name + " does not play banjo");
 }
 ```
+---
+
+### Work experience
+#### (since 2022) Yandex
+Asessor in computer science
+
+#### (since 2022) Skillbox
+Author of the articles in 'Code'
+
+#### (since 2021) AST publishing house 
+Editor (non fiction)
+
+#### (2021–2022) Skyeng (Skysmart, Skypro)
+Proofreader
+
+#### (2002–2010) Federal treasury department (Saint-Petersburg)
+Database administrator, consultant, tester
+
+---
 
 ### EDUCATION
 #### (1995–2001) ITMO University
@@ -61,19 +78,3 @@ JS / Front-end
 
 #### (2022) RS School
 JS / Front-end (Stage 0)
-
-### WORK EXPIERIENCE
-#### (since 2022) Yandex
-Asessor in computer science
-
-#### (since 2022) Skillbox
-Author of the articles in 'Code'
-
-#### (since 2021) AST publishing house 
-Editor
-
-#### (2021–2022) Skyeng (Skysmart, Skypro)
-Proofreader
-
-#### (2002–2010) Federal treasury department (Saint-Petersburg)
-Database administrator, consultant, tester
