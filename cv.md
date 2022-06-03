@@ -26,7 +26,9 @@ vorotyagina@mail.ru, telegram: [@vorotyagina_smile](http://t.me/vorotyagina_smil
     + webpack
     + React  
     + GitHub
+
 ---
+
 
 ### Code example
 ```
