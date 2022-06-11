@@ -1,6 +1,22 @@
-.test {
-    font-size: 12px;
+@font-face {
+  font-family: Roboto;
+  src: url("assets/fonts/Dosis-ExtraBold.ttf");
+
 }
-.child {
-    font-style: 4em;
+
+@font-face {
+  font-family: Roboto;
+  src: url("assets/fonts/Dosis-VariableFont_wght.ttf");
+
 }
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+  font-family: 'Roboto';
+ 
+}
+
+
