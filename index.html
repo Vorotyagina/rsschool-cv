@@ -1,19 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CV</title>
-        
-        <link rel="stylesheet" href="style.css">
-        <link rel="icon" href="assets/img/favicon.ico">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/img/favicon.ico" />
+  </head>
+  <body>
     <header class="header">
-        <h1 class="h1">Natalya Vorotyagina</h1>
-        <img src="assets/img/ava.png" alt="ava">
-        <p class="text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed rem saepe laborum at ratione. Enim asperiores fugit labore dignissimos repudiandae reprehenderit accusantium. Est ea distinctio unde quae sit enim nam?</p>
+      <div class="container">
+        <nav class="nav">
+          <ul class="nav-list green-background right">
+            <li class="nav-item"><a href="#contacts" class="nav-link link">Contacts</a></li>
+            <li class="nav-item"><a href="#about-me" class="nav-link link">About&nbsp;me</a></li>
+            <li class="nav-item"><a href="#skills" class="nav-link link">Skills</a></li>
+            <li class="nav-item"><a href="#code-example" class="nav-link link">Code&nbsp;example</a></li>
+            <li class="nav-item"><a href="#work-experience" class="nav-link link">Work&nbsp;experience</a></li>
+            <li class="nav-item"><a href="#education" class="nav-link link">Education</a></li>
+            <li class="nav-item"><a href="#language" class="nav-link link">Language</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-</body>
+    <main class="main main-container">
+      <div class="container">
+          <section class="section head-info" id="contacts">
+            <div class="foto">
+              <img src="assets/img/ava.png" alt="ava" class="grey-border" width="200"/>
+            </div>
+            <div>  
+              <h1 class="h1 padding-left">Natalya Vorotyagina</h1>
+              <ul class="nav-vertical">
+                <li><a href="mailto: vorotyagina@mail.ru" target="_blank" class="nav-link img-link"><img src="./assets/img/mailto.svg" width="30"></a></li>
+                <li><a href="http://vk.com/vorotyagina_natalya" target="_blank" class="nav-link img-link"><img src="./assets/img/vk.svg" width="30"></a></li>
+                <li><a href="http://t.me/vorotyagina_smile" target="_blank" class="nav-link img-link"><img src="./assets/img/tg.svg" width="30"></a></li>
+              </ul>
+            </div>
+          </section>
+        <section class="section" id="about-me">
+            <h2>About me</h2>
+            <p class="text">
+            "I like to make texts beautiful. And also — to learn new things. Most
+            of all I like the feeling when my code works"
+            </p>
+        </section>
+        <section class="section" id="skills">
+        <h2>Skills</h2>
+        <h3>Soft skills</h3>
+        <ul class="nav-vertical">
+          <li>Listening (paying attention, reflection and responding)</li>
+          <li>Adaptability</li>
+          <li>Creativity</li>
+          <li>Critical observation</li>
+          <li>Desire to learn</li>
+          <li>Flexibility</li>
+          <li>Logical thinking</li>
+          <li>Problem solving</li>
+        </ul>
+        <h3>Hard skills</h3>
+          <ul class="nav-vertical">
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JS5, JS6+</li>
+            <li>TypeScript</li>
+            <li>Webpack</li>
+            <li>React</li>
+            <li>GitHub</li>
+          </ul>
+        </section>
+        <section class="section" id="code-example">
+            <h2>Code example</h2>
+            <pre class="code pink">
+               
+                function areYouPlayingBanjo(name) {
+                    if (name[0].toLowerCase()==="r") {
+                    return (name + " plays banjo");
+                    } else
+                    return (name + " does not play banjo");
+                }
+            </pre>
+        </section>
+        <section class="section" id="work-experience">
+          <h2>Work experience</h2>
+          <div class="padding-left">
+            <p><strong>(since 2022) Yandex</strong></p><p>Asessor in computer science</p>
+            <p><strong>(since 2022) Skillbox</strong></p><p>Author of the articles in ‘Code’</p>
+            <p><strong>(since 2021) AST publishing house</strong></p><p>Editor (non fiction)</p>
+            <p><strong>(2021–2022) Skyeng (Skysmart, Skypro)</strong></p><p>Proofreader</p>
+            <p><strong>(2002–2010) Federal treasury department (Saint-Petersburg)</strong></p><p>Database administrator, consultant, tester</p>
+          </div>
+        </section>
+        <section class="section" id="education">
+          <h2>Education</h2>
+          <div class="padding-left">
+            <p><strong>(1995–2001) ITMO University</strong></p><p>School of Computer Technologies and Control. Master’s degree in computer science. Advanced training courses “Higher school teacher”</p>
+            <p><strong>(2003) Microsoft courses</strong></p><p>“#2072 Database Administration for Microsoft SQL Server”</p>
+            <p><strong>(2009) LIMTU</strong></p><p>“Oracle 10G DBMS, UNIX FreeBSD OS (administration)”</p>
+            <p><strong>(2008–2010) Institute of Economics and Finance</strong></p><p>Degree in Accounting</p>
+            <p><strong>(2021–2022) Skyeng (Skypro)</strong></p><p>JS / Front-end</p>
+            <p><strong>(2022) RS School</strong></p><p>JS / Front-end (Stage 0)</p>
+          </div>
+        </section>
+        <section class="section" id="language">
+          <h2>English</h2>
+          <p class="padding-left">A2/B1</p>
+        </section>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="container green-background">
+        <section class="section-footer">
+          <div class="github">
+            <a class="link" href="https://github.com/Vorotyagina/rsschool-cv">GitHub</a>
+          </div>
+          <div><a href="#"><img src="./assets/img/rss.svg" alt="rss" width="70"></a></div>
+          <div class="copyright">2022</div>
+        </section>
+      </div>
+    </footer>
+  </body>
 </html>
