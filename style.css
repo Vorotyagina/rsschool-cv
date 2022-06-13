@@ -101,7 +101,7 @@ body {
 
 .link:hover {
   color: #009900;
-  background-color: #fff;
+  background-color: #fffff;
 }
 
 .nav-vertical {
@@ -136,4 +136,6 @@ body {
   padding-left: 40px;
 }
 
-
+.h2 {
+  background-color: #fbdedd;
+}
