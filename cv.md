@@ -2,7 +2,7 @@
 ##### proofreader editor learning front-end
 vorotyagina@mail.ru, telegram: [@vorotyagina_smile](http://t.me/vorotyagina_smile)
 
-![foto](./img/ava.png "Фото")
+![foto](./assets/img/ava.png "Фото")
 
 ### About me
 > I like to make texts beautiful. And also — to learn new things. Most of all I like the feeling when my code works.
